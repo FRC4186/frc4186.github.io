@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[ASTI Aztechs - Team 4186]]></title>
   <link href="http://FRC4186.github.io/atom.xml" rel="self"/>
   <link href="http://FRC4186.github.io/"/>
-  <updated>2014-10-16T21:32:01-07:00</updated>
+  <updated>2014-10-16T22:24:13-07:00</updated>
   <id>http://FRC4186.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[dachaeon]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Aztechs Inaugural Blog Post]]></title>
+    <link href="http://FRC4186.github.io/blog/2014/10/16/aztechs-inaugural-blog-post/"/>
+    <updated>2014-10-16T22:10:01-07:00</updated>
+    <id>http://FRC4186.github.io/blog/2014/10/16/aztechs-inaugural-blog-post</id>
+    <content type="html"><![CDATA[<p>Welcome Aztechs &amp; World!
+This inaugural post coincides with an exciting weekend as we kickoff prep for the 2015 season.
+We are under 100 days until kickoff!</p>
+]]></content>
+  </entry>
   
 </feed>
